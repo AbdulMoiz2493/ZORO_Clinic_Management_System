@@ -70,7 +70,7 @@ The **Clinic Management System** is a full-stack web application designed to str
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Fahadboi66/ZORO-CLINIC-MGT-SYSTEM.git
+   git clone https://github.com/AbdulMoiz2493/ZORO_Clinic_Management_System.git
    ```
 
 2. Navigate to the `frontend` directory:
